@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  24 SEP 2021 00:01
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  24 SEP 2021 01:48
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1134,7 +1134,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
+(Font)              <8> on input line 11.
  [7] [8
 
 ] [9] [10]) (./TEXTO.tex [11] [12
@@ -1146,18 +1146,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <./imgs/grafico1.png, id=52, 399.6531pt x 104.0688pt>
 File: ./imgs/grafico1.png Graphic file (type png)
 <use ./imgs/grafico1.png>
-Package luatex.def Info: ./imgs/grafico1.png  used on input line 30.
+Package luatex.def Info: ./imgs/grafico1.png  used on input line 33.
 (luatex.def)             Requested size: 264.0pt x 68.74913pt.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Formular' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
  [14<./imgs/grafico1.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 66.
+
 [15] [16] [17] [18] [19] [20]
-<./imgs/grafico2.png, id=75, 327.2225pt x 323.2075pt>
+<./imgs/grafico2.png, id=76, 327.2225pt x 323.2075pt>
 File: ./imgs/grafico2.png Graphic file (type png)
 <use ./imgs/grafico2.png>
-Package luatex.def Info: ./imgs/grafico2.png  used on input line 278.
+Package luatex.def Info: ./imgs/grafico2.png  used on input line 280.
 (luatex.def)             Requested size: 264.0pt x 260.76097pt.
  [21] [22<./imgs/grafico2.png>] [23] [24] [25]
 [26] [27]
-Overfull \hbox (15.41798pt too wide) in paragraph at lines 491--493
+Overfull \hbox (15.41798pt too wide) in paragraph at lines 492--494
 []\TU/MinionPro(0)/m/it/8 De-bate Col-lor x Lula. In\TU/MinionPro(0)/m/n/8 : Me-
 mó-ria Globo. On-line. Dis-po-ní-vel em: <\TU/MinionPro(0)/m/it/8 https://glo.
 bo/CO-
@@ -1167,85 +1174,79 @@ bo/CO-
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 535.
- [31] [32] [33] [34] [35] [36] [37]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 773.
- [38] [39] [40] [41] [42]
-Underfull \hbox (badness 10000) in paragraph at lines 972--975
+(Font)              <12> on input line 536.
+ [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 979--982
 
  []
 
 [43] [44] [45
 
 ] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57]
-[58] [59]
-Overfull \hbox (1.35658pt too wide) in paragraph at lines 1500--1502
+Overfull \hbox (1.35658pt too wide) in paragraph at lines 1502--1504
 []\TU/MinionPro(0)/m/n/8 , N. \TU/MinionPro(0)/m/it/8 Quan-tifying So-cial In-fl
 u-ence\TU/MinionPro(0)/m/n/8 . Dis-po-ní-vel em: <\TU/MinionPro(0)/m/it/8 https
 ://bit.ly/QyPQJO\TU/MinionPro(0)/m/n/8 >.
  []
 
-[60] [61] [62] [63] [64
+[58] [59] [60] [61] [62
 
-] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74]
-[75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85]
-<./imgs/grafico3.png, id=280, 529.22719pt x 155.83218pt>
+] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72]
+[73] [74] [75] [76] [77] [78] [79]
+<./imgs/grafico3.png, id=263, 529.22719pt x 155.83218pt>
 File: ./imgs/grafico3.png Graphic file (type png)
 <use ./imgs/grafico3.png>
-Package luatex.def Info: ./imgs/grafico3.png  used on input line 2331.
+Package luatex.def Info: ./imgs/grafico3.png  used on input line 2333.
 (luatex.def)             Requested size: 264.0pt x 77.73518pt.
 
-Overfull \hbox (6.0083pt too wide) in paragraph at lines 2335--2335
-[]\TU/MinionPro(0)/m/n/8 . [][]| 
+Overfull \hbox (6.0083pt too wide) in paragraph at lines 2337--2337
+[]\TU/MinionPro(0)/m/n/8 . [][]| 
  []
 
-[86<./imgs/grafico3.png>] [87] [88] [89] [90] [91] [92] [93]
-Overfull \hbox (12.87837pt too wide) in paragraph at lines 2609--2611
+[80<./imgs/grafico3.png>] [81] [82] [83] [84] [85] [86]
+Overfull \hbox (12.87837pt too wide) in paragraph at lines 2611--2613
 []\TU/MinionPro(0)/m/n/8 , Da-niel. \TU/MinionPro(0)/m/it/8 O que é uma star-tu
 p? \TU/MinionPro(0)/m/n/8 . Dis-po-ní-vel em: <\TU/MinionPro(0)/m/
 it/8 https://abr.ai/GayWP\TU/MinionPro(0)/m/n/8 >.
  []
 
-[94] [95] [96
+[87] [88] [89
 
-] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
-[107] [108] [109]
-Underfull \hbox (badness 2990) in paragraph at lines 3085--3088
+] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99]
+Underfull \hbox (badness 2990) in paragraph at lines 3087--3090
 []\TU/MinionPro(0)/m/n/8 , Yo-ram. \TU/MinionPro(0)/m/sc/8 --
 \TU/MinionPro(0)/m/n/8 , Thore. \TU/MinionPro(0)/m/sc/8 \T
 U/MinionPro(0)/m/n/8 , Push-meet. \TU/MinionPro(0)/m/sc/8 -
 \TU/MinionPro(0)/m/n/8 , Mi-chal.
  []
 
-[110] [111] [112] [113
+[100] [101] [102] [103
 
-] [114] [115] [116] [117]
-<./imgs/grafico4.jpg, id=381, 3011.25pt x 2205.23875pt>
+] [104] [105] [106]
+<./imgs/grafico4.jpg, id=349, 3011.25pt x 2205.23875pt>
 File: ./imgs/grafico4.jpg Graphic file (type jpg)
 <use ./imgs/grafico4.jpg>
-Package luatex.def Info: ./imgs/grafico4.jpg  used on input line 3358.
+Package luatex.def Info: ./imgs/grafico4.jpg  used on input line 3360.
 (luatex.def)             Requested size: 264.0pt x 193.31459pt.
- [118<./imgs/grafico4.jpg>]
-[119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130]
-[131]
-<./imgs/grafico5.png, id=426, 345.54094pt x 357.58594pt>
+ [107] [108<./imgs/grafico4.jpg>]
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118]
+<./imgs/grafico5.png, id=387, 345.54094pt x 357.58594pt>
 File: ./imgs/grafico5.png Graphic file (type png)
 <use ./imgs/grafico5.png>
-Package luatex.def Info: ./imgs/grafico5.png  used on input line 3834.
+Package luatex.def Info: ./imgs/grafico5.png  used on input line 3836.
 (luatex.def)             Requested size: 264.0pt x 273.20859pt.
-<./imgs/grafico6.png, id=427, 328.22626pt x 345.54094pt>
+<./imgs/grafico6.png, id=388, 328.22626pt x 345.54094pt>
 File: ./imgs/grafico6.png Graphic file (type png)
 <use ./imgs/grafico6.png>
-Package luatex.def Info: ./imgs/grafico6.png  used on input line 3849.
+Package luatex.def Info: ./imgs/grafico6.png  used on input line 3851.
 (luatex.def)             Requested size: 264.0pt x 277.93051pt.
- [132] [133<./imgs/grafico5.png>] [134<./imgs/grafico6.png>] [135]
-Underfull \hbox (badness 3168) in paragraph at lines 3958--3960
+ [119] [120<./imgs/grafico5.png>] [121<./imgs/grafico6.png>] [122]
+Underfull \hbox (badness 3168) in paragraph at lines 3962--3964
 []\TU/MinionPro(0)/m/n/8 , Fa-ce-book. \TU/MinionPro(0)/m/it/8 Post cam-pa-nha 
 Per-gun-te-Por-que\TU/MinionPro(0)/m/n/8 . Dis-po-ní-vel em:
  []
 
-[136] [137]) (./Z-colofon.tex [138] [139])) [140]
+[123] [124]) (./Z-colofon.tex [125])) [126]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1272,28 +1273,30 @@ Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 13520 strings out of 480992
+ 13537 strings out of 480992
  100000,953878 words of node,token memory allocated
- 1905 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 61 glue, 3 kern, 1 glyph, 124 attribute, 187 glue_s
-pec, 63 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:890,3:79,4:77,5:1800,6:24,7:4957,8:2,9:244,10:27,11:510
- 30440 multiletter control sequences out of 65536+600000
- 117 fonts using 21912731 bytes
- 53i,14n,102p,783b,441s stack positions out of 5000i,500n,10000p,200000b,100000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Li
-brary/Fonts/Times New Roman.ttf></Users/suzana/Library/Fonts/MinionPro-It.otf></
-Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/Mi
-nionPro-ItCapt.otf></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzan
-a/Library/Fonts/MinionPro-BoldCapt.otf></Users/suzana/Library/Fonts/MinionPro-It
-Subh.otf></Users/suzana/Library/Fonts/MinionPro-BoldDisp.otf></usr/local/texlive
-/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texliv
-e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/
-2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (140 pages, 1901712 bytes).
+ 2295 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 91 glue, 3 kern, 1 glyph, 184 attribute, 187 glue_s
+pec, 93 attribute_list, 3 shape, 3 write nodes
+   avail lists: 2:908,3:85,4:72,5:1858,6:25,7:5373,8:2,9:259,10:28,11:567
+ 30453 multiletter control sequences out of 65536+600000
+ 122 fonts using 22965635 bytes
+ 53i,14n,102p,783b,480s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
+ers/suzana/Library/Fonts/MinionPro-Bold.otf></Users/suzana/Library/Fonts/Formula
+r-Regular.otf></Library/Fonts/Times New Roman.ttf></Users/suzana/Library/Fonts/M
+inionPro-It.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzan
+a/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fonts/MinionPro-Capt
+.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></Users/suzana/Library/
+Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/MinionPro-BoldDisp.otf><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.p
+fb>
+Output written on LIVRO.pdf (126 pages, 1894111 bytes).
 
-PDF statistics: 522 PDF objects out of 1000 (max. 8388607)
- 340 compressed objects within 4 object streams
+PDF statistics: 493 PDF objects out of 1000 (max. 8388607)
+ 319 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

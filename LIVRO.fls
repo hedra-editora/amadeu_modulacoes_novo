@@ -269,15 +269,15 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 INPUT ./imgs/grafico1.png
 INPUT ./imgs/grafico1.png
 INPUT ./imgs/grafico1.png
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT ./imgs/grafico2.png
 INPUT ./imgs/grafico2.png
 INPUT ./imgs/grafico2.png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT ./imgs/grafico3.png
 INPUT ./imgs/grafico3.png
 INPUT ./imgs/grafico3.png
@@ -298,5 +298,5 @@ INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
 INPUT ./INPUTS.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
