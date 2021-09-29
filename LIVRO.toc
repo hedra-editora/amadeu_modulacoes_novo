@@ -11,14 +11,14 @@
 \contentsline {section}{patentes citadas}{43}
 \contentsline {chapter}{A modulação de comportamento nas plataformas de mídias sociais, \relax \fontsize {7}{8}\selectfont {por Débora Machado}}{45}
 \contentsline {chapter}{Aprendizado de máquina e modulação do comportamento humano, \relax \fontsize {7}{8}\selectfont {por Carla Oliveira}}{63}
-\contentsline {section}{Inteligência Artificial e sua evolução}{64}
-\contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{69}
-\contentsline {section}{Considerações Finais}{85}
-\contentsline {chapter}{Da biopolítica à modulação, \relax \fontsize {7}{8}\selectfont {por Cínthia Monteiro}}{89}
-\contentsline {chapter}{Existe resistência nas sociedades de controle?,\\ \relax \fontsize {7}{8}\selectfont {por Mariella Batarra Mian}}{103}
-\contentsline {section}{Introdução}{103}
-\contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{105}
-\contentsline {section}{Resistência, o pressuposto do poder}{111}
-\contentsline {section}{Resistência na sociedade contemporânea}{114}
-\contentsline {section}{Considerações finais}{122}
+\contentsline {section}{Inteligência Artificial e sua evolução}{65}
+\contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{70}
+\contentsline {section}{Considerações Finais}{87}
+\contentsline {chapter}{Da biopolítica à modulação, \relax \fontsize {7}{8}\selectfont {por Cínthia Monteiro}}{91}
+\contentsline {chapter}{Existe resistência nas sociedades de controle?,\\ \relax \fontsize {7}{8}\selectfont {por Mariella Batarra Mian}}{105}
+\contentsline {section}{Introdução}{105}
+\contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{107}
+\contentsline {section}{Resistência, o pressuposto do poder}{113}
+\contentsline {section}{Resistência na sociedade contemporânea}{116}
+\contentsline {section}{Considerações finais}{124}
 \babel@toc {brazilian}{}
