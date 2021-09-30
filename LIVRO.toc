@@ -19,6 +19,6 @@
 \contentsline {section}{Introdução}{115}
 \contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{117}
 \contentsline {section}{Resistência, o pressuposto do poder}{124}
-\contentsline {section}{Resistência na sociedade contemporânea}{127}
-\contentsline {section}{Considerações finais}{135}
+\contentsline {section}{Resistência na sociedade contemporânea}{128}
+\contentsline {section}{Considerações finais}{136}
 \babel@toc {brazilian}{}
