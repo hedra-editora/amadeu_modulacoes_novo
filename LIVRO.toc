@@ -1,21 +1,21 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Introdução, \relax \fontsize {7}{8}\selectfont {por Joyce Souza, Rodolfo Avelino e Sérgio Amadeu da Silveira}}{9}
-\contentsline {chapter}{Modulação deleuzeana, modulação algorítmica e~manipulação midiática, \relax \fontsize {7}{8}\selectfont {por João Francisco Cassino}}{13}
+\contentsline {chapter}{Introdução}{9}
+\contentsline {chapter}{Modulação deleuzeana, modulação algorítmica e~manipulação midiática}{13}
 \contentsline {section}{Sociedade Disciplinar e Sociedade do Controle}{14}
 \contentsline {section}{«Agenda Setting» e Economia da Atenção}{16}
 \contentsline {section}{Modulação deleuzeana, Modulação Algorítmica e~Manipulação}{22}
 \contentsline {section}{A concretização da modulação à distância}{29}
-\contentsline {chapter}{A noção de modulação e os sistemas algorítmicos,\\ \relax \fontsize {7}{8}\selectfont {por Sérgio Amadeu da Silveira}}{33}
+\contentsline {chapter}{A noção de modulação e os sistemas algorítmicos\FN@sf@gobble@opt {Este texto é fruto das reflexões originadas na pesquisa ``A Regulação Algorítmica do Setor Público: mapeamento teórico-programático'', processo 2017/14412-0, apoiada pela Fundação de Amparo à Pesquisa do Estado de São Paulo (\textsc {fapesp}). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do(s) autor(es) e não necessariamente refletem a visão da \textsc {fapesp}.}}{33}
 \contentsline {section}{As plataformas e a modulação do olhar e do afeto}{37}
 \contentsline {section}{Neoliberalismo e modulação}{44}
 \contentsline {section}{patentes citadas}{47}
-\contentsline {chapter}{A modulação de comportamento nas plataformas de mídias sociais, \relax \fontsize {7}{8}\selectfont {por Débora Machado}}{49}
-\contentsline {chapter}{Aprendizado de máquina e modulação do comportamento humano, \relax \fontsize {7}{8}\selectfont {por Carla Oliveira}}{69}
+\contentsline {chapter}{A modulação de comportamento nas plataformas de mídias sociais}{49}
+\contentsline {chapter}{Aprendizado de máquina e modulação do~comportamento~humano}{69}
 \contentsline {section}{Inteligência Artificial e sua evolução}{71}
 \contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{77}
 \contentsline {section}{Considerações Finais}{95}
-\contentsline {chapter}{Da biopolítica à modulação, \relax \fontsize {7}{8}\selectfont {por Cínthia Monteiro}}{99}
-\contentsline {chapter}{Existe resistência nas sociedades de controle?,\\ \relax \fontsize {7}{8}\selectfont {por Mariella Batarra Mian}}{115}
+\contentsline {chapter}{Da biopolítica à modulação}{99}
+\contentsline {chapter}{Existe resistência nas sociedades de controle?}{115}
 \contentsline {section}{Introdução}{115}
 \contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{117}
 \contentsline {section}{Resistência, o pressuposto do poder}{124}

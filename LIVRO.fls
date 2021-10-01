@@ -193,6 +193,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/ncctools/nccfoots.sty
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bolditalic.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc
@@ -293,8 +297,11 @@ INPUT ./imgs/grafico5.png
 INPUT ./imgs/grafico6.png
 INPUT ./imgs/grafico6.png
 INPUT ./imgs/grafico6.png
+INPUT ./Y-publicidade.tex
+INPUT ./Y-publicidade.tex
 INPUT ./Z-colofon.tex
 INPUT ./Z-colofon.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
 OUTPUT LIVRO.toc
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux

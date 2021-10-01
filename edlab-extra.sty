@@ -1,6 +1,9 @@
 % edlab-extra.sty
 
+% Páginas brancas conforme par ou impar
 \newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
+\newcommand{\blankAteven}{\ifodd\thepage\relax\else\blankpage\fi}
+\newcommand{\blankAtodd}{\ifodd\thepage\blankpage\else\relax\fi}
 
 
 % url.sty
