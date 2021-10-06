@@ -13,7 +13,7 @@
 \contentsline {chapter}{Aprendizado de máquina e modulação do~comportamento~humano}{69}%
 \contentsline {section}{Inteligência Artificial e sua evolução}{71}%
 \contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{78}%
-\contentsline {section}{Considerações Finais}{99}%
+\contentsline {section}{Considerações Finais}{100}%
 \contentsline {chapter}{Da biopolítica à modulação}{105}%
 \contentsline {chapter}{Existe resistência nas sociedades de controle?}{123}%
 \contentsline {section}{Introdução}{123}%

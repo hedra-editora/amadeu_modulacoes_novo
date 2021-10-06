@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  6 OCT 2021 11:30
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  6 OCT 2021 15:54
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1169,7 +1169,7 @@ Package luatex.def Info: ./imgs/grafico2.png  used on input line 281.
  [22<./imgs/grafico2.png>] [23] [24] [25]
 [26] [27] [28] [29] [30]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 537.
+(Font)              <12> on input line 535.
  [31
 
 ] [32]
@@ -1187,31 +1187,30 @@ Inserting `luaotfload.letterspace' at position 2 in `hpack_filter'. [33] [34] [
 <./imgs/grafico3.png, id=300, 529.22719pt x 155.83218pt>
 File: ./imgs/grafico3.png Graphic file (type png)
 <use ./imgs/grafico3.png>
-Package luatex.def Info: ./imgs/grafico3.png  used on input line 2346.
+Package luatex.def Info: ./imgs/grafico3.png  used on input line 2327.
 (luatex.def)             Requested size: 264.0pt x 77.73518pt.
  [93] [94<./imgs/grafico3.png>] [95] [96]
 [97] [98] [99] [100] [101] [102] [103] [104
 
 ] [105] [106] [107] [108] [109]
-[110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121]
-[122] [123
+[110] [111]
+Underfull \hbox (badness 2205) in paragraph at lines 2859--2859
+[]\TU/SwiftNeueLTPro(0)/m/n/8 . []Yuk Hui. \TU/SwiftNeueLTPro(0)/m/it/8 Mo
+-du-la-tion af-ter Con-trol. New for-ma-ti-ons: a jour-nal of cul-
+ []
 
-] [124] [125] [126] [127]
+[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123
+
+]
+[124] [125] [126] [127]
 <./imgs/grafico4.jpg, id=410, 3011.25pt x 2205.23875pt>
 File: ./imgs/grafico4.jpg Graphic file (type jpg)
 <use ./imgs/grafico4.jpg>
-Package luatex.def Info: ./imgs/grafico4.jpg  used on input line 3368.
+Package luatex.def Info: ./imgs/grafico4.jpg  used on input line 3344.
 (luatex.def)             Requested size: 264.0pt x 193.31459pt.
- [128] [129<./imgs/grafico4.jpg>] [130]
-[131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142]
-[143] [144] [145] [146] [147] [148]
-Overfull \hbox (12.31831pt too wide) in paragraph at lines 4005--4007
-[]\TU/SwiftNeueLTPro(0)/m/n/8 . \TU/SwiftNeueLTPro(0)/m/it/8 Caso Cam-bridge Ana
-ly-tica. \TU/SwiftNeueLTPro(0)/m/n/8 Dis-po-ní-vel em: <\TU/SwiftNeueLTPro(0)/
-m/it/8 https://www.he-dra.com.br/r/L\TU/SwiftNeueLTPro(0)/m/n/8 >.
- []
-
-) (./Y-publicidade.tex [149] [150]
+ [128] [129<./imgs/grafico4.jpg>] [130] [131] [132]
+[133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144]
+[145] [146] [147] [148]) (./Y-publicidade.tex [149] [150]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
@@ -1252,13 +1251,13 @@ Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 14165 strings out of 480992
+ 14166 strings out of 480992
  100000,794899 words of node,token memory allocated
  4686 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 269 glue, 3 kern, 1 glyph, 541 attribute, 198 glue_
 spec, 272 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:1602,3:184,4:100,5:1580,6:46,7:4712,8:2,9:342,10:24,11:491
- 31124 multiletter control sequences out of 65536+600000
+   avail lists: 2:1602,3:184,4:100,5:1581,6:46,7:4642,8:2,9:342,10:24,11:491
+ 31125 multiletter control sequences out of 65536+600000
  133 fonts using 17671067 bytes
  53i,12n,102p,1330b,511s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
@@ -1270,7 +1269,7 @@ ar.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/Ornements
 ADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
 0.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/l
 circlew.pfb>
-Output written on LIVRO.pdf (156 pages, 1531908 bytes).
+Output written on LIVRO.pdf (156 pages, 1530213 bytes).
 
 PDF statistics: 554 PDF objects out of 1000 (max. 8388607)
  366 compressed objects within 4 object streams
