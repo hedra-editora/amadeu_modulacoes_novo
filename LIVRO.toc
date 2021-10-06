@@ -1,11 +1,10 @@
 \thispagestyle {empty}
-<<<<<<< HEAD
 \contentsline {chapter}{Introdução}{9}%
 \contentsline {chapter}{Modulação deleuzeana, modulação algorítmica e~manipulação midiática}{13}%
 \contentsline {section}{Sociedade Disciplinar e Sociedade do Controle}{14}%
 \contentsline {section}{«Agenda Setting» e Economia da Atenção}{16}%
 \contentsline {section}{modulação deleuzeana, modulação\break algorítmica e~manipulação}{22}%
-\contentsline {section}{A concretização da modulação à distância}{29}%
+\contentsline {section}{A concretização da modulação à distância}{28}%
 \contentsline {chapter}{A noção de modulação e os sistemas algorítmicos\FN@sf@gobble@opt {Este texto é fruto das reflexões originadas na pesquisa ``A Regulação Algorítmica do Setor Público: mapeamento teórico-programático'', processo 2017/14412-0, apoiada pela Fundação de Amparo à Pesquisa do Estado de São Paulo (\textsc {fapesp}). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do(s) autor(es) e não necessariamente refletem a visão da \textsc {fapesp}.}}{31}%
 \contentsline {section}{As plataformas e a modulação\break do olhar e do afeto}{35}%
 \contentsline {section}{Neoliberalismo e modulação}{42}%
@@ -21,29 +20,5 @@
 \contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{125}%
 \contentsline {section}{Resistência, o pressuposto do poder}{134}%
 \contentsline {section}{Resistência na sociedade contemporânea}{138}%
-\contentsline {section}{Considerações finais}{147}%
-=======
-\contentsline {chapter}{Introdução}{9}
-\contentsline {chapter}{Modulação deleuzeana, modulação algorítmica e~manipulação midiática}{13}
-\contentsline {section}{Sociedade Disciplinar e Sociedade do Controle}{14}
-\contentsline {section}{«Agenda Setting» e Economia da Atenção}{16}
-\contentsline {section}{Modulação deleuzeana, Modulação Algorítmica e~Manipulação}{22}
-\contentsline {section}{A concretização da modulação à distância}{28}
-\contentsline {chapter}{A noção de modulação e os sistemas algorítmicos\FN@sf@gobble@opt {Este texto é fruto das reflexões originadas na pesquisa ``A Regulação Algorítmica do Setor Público: mapeamento teórico-programático'', processo 2017/14412-0, apoiada pela Fundação de Amparo à Pesquisa do Estado de São Paulo (\textsc {fapesp}). As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do(s) autor(es) e não necessariamente refletem a visão da \textsc {fapesp}.}}{31}
-\contentsline {section}{As plataformas e a modulação do olhar e do afeto}{35}
-\contentsline {section}{Neoliberalismo e modulação}{42}
-\contentsline {section}{patentes citadas}{44}
-\contentsline {chapter}{A modulação de comportamento nas plataformas de mídias sociais}{45}
-\contentsline {chapter}{Aprendizado de máquina e modulação do~comportamento~humano}{65}
-\contentsline {section}{Inteligência Artificial e sua evolução}{67}
-\contentsline {section}{Aprendizado de máquina e modulação do~comportamento~humano}{73}
-\contentsline {section}{Considerações Finais}{91}
-\contentsline {chapter}{Da biopolítica à modulação}{95}
-\contentsline {chapter}{Existe resistência nas sociedades de controle?}{111}
-\contentsline {section}{Introdução}{111}
-\contentsline {section}{Sociedade contemporânea: informacional~e~de~controle}{113}
-\contentsline {section}{Resistência, o pressuposto do poder}{120}
-\contentsline {section}{Resistência na sociedade contemporânea}{124}
-\contentsline {section}{Considerações finais}{131}
->>>>>>> d5ddff317e5c25b95381e05b265116f9f5053bc2
+\contentsline {section}{Considerações finais}{146}%
 \babel@toc {brazilian}{}
