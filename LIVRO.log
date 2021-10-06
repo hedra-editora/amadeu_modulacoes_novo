@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  5 OCT 2021 08:57
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  6 OCT 2021 10:40
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.110 seconds
+luaotfload | main : initialization completed in 0.114 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1498,75 +1498,61 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <./imgs/grafico2.png, id=76, 327.2225pt x 323.2075pt>
 File: ./imgs/grafico2.png Graphic file (type png)
 <use ./imgs/grafico2.png>
-Package luatex.def Info: ./imgs/grafico2.png  used on input line 279.
-(luatex.def)             Requested size: 264.0pt x 260.76097pt.
- [22]
-[23<./imgs/grafico2.png>] [24] [25] [26] [27] [28] [29] [30] [31] [32
-
-]
+Package luatex.def Info: ./imgs/grafico2.png  used on input line 281.
+(luatex.def)             Requested size: 105.59839pt x 104.30142pt.
+ [22<./imgs/grafico2.png>] [23] [24] [25] [26] [27] [28] [29] [30]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 535.
- [33]
-[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45]
-Underfull \hbox (badness 10000) in paragraph at lines 975--978
+(Font)              <12> on input line 537.
+ [31
 
- []
+] [32]
+Inserting `luaotfload.letterspace' at position 2 in `pre_linebreak_filter'.
+Inserting `luaotfload.letterspace' at position 2 in `hpack_filter'. [33]
+[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45
 
-[46] [47] [48
+] [46] [47] [48]
+[49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
+[64
 
-] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60]
-[61] [62] [63] [64] [65] [66] [67] [68
-
-] [69] [70] [71] [72] [73] [74] [75]
-[76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89]
-<./imgs/grafico3.png, id=289, 529.22719pt x 155.83218pt>
+] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+[79] [80] [81] [82] [83] [84] [85]
+<./imgs/grafico3.png, id=277, 529.22719pt x 155.83218pt>
 File: ./imgs/grafico3.png Graphic file (type png)
 <use ./imgs/grafico3.png>
-Package luatex.def Info: ./imgs/grafico3.png  used on input line 2348.
+Package luatex.def Info: ./imgs/grafico3.png  used on input line 2355.
 (luatex.def)             Requested size: 264.0pt x 77.73518pt.
- [90<./imgs/grafico3.png>] [91] [92] [93] [94] [95] [96] [97] [98] [99
+ [86<./imgs/grafico3.png>] [87] [88] [89]
+[90] [91] [92] [93] [94] [95
 
-] [100] [101]
-[102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113]
-[114] [115
+] [96] [97] [98] [99] [100] [101] [102] [103]
+[104] [105] [106] [107] [108] [109] [110] [111
 
-] [116] [117] [118] [119]
-<./imgs/grafico4.jpg, id=384, 3011.25pt x 2205.23875pt>
+] [112] [113] [114] [115]
+<./imgs/grafico4.jpg, id=372, 3011.25pt x 2205.23875pt>
 File: ./imgs/grafico4.jpg Graphic file (type jpg)
 <use ./imgs/grafico4.jpg>
-Package luatex.def Info: ./imgs/grafico4.jpg  used on input line 3370.
+Package luatex.def Info: ./imgs/grafico4.jpg  used on input line 3377.
 (luatex.def)             Requested size: 264.0pt x 193.31459pt.
- [120<./imgs/grafico4.jpg>] [121] [122]
-[123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133]
-<./imgs/grafico5.png, id=429, 345.54094pt x 357.58594pt>
-File: ./imgs/grafico5.png Graphic file (type png)
-<use ./imgs/grafico5.png>
-Package luatex.def Info: ./imgs/grafico5.png  used on input line 3842.
-(luatex.def)             Requested size: 264.0pt x 273.20859pt.
-<./imgs/grafico6.png, id=430, 328.22626pt x 345.54094pt>
-File: ./imgs/grafico6.png Graphic file (type png)
-<use ./imgs/grafico6.png>
-Package luatex.def Info: ./imgs/grafico6.png  used on input line 3857.
-(luatex.def)             Requested size: 264.0pt x 277.93051pt.
- [134]
-[135<./imgs/grafico5.png>] [136<./imgs/grafico6.png>] [137] [138]
-Overfull \hbox (12.32759pt too wide) in paragraph at lines 4004--4006
+
+[116<./imgs/grafico4.jpg>] [117] [118] [119] [120] [121] [122] [123] [124]
+[125] [126] [127] [128] [129] [130] [131] [132]
+Overfull \hbox (12.32759pt too wide) in paragraph at lines 4014--4016
 []\TU/SwiftNeueLTPro(0)/m/n/8 . \TU/SwiftNeueLTPro(0)/m/it/8 Caso Cam-bridge An
 aly-tica. \TU/SwiftNeueLTPro(0)/m/n/8 Dis-po-ní-vel em: <\TU/SwiftNeueLTPro(0)
 /m/it/8 https://www.he-dra.com.br/r/L\TU/SwiftNeueLTPro(0)/m/n/8 >.
  []
 
-[139]) (./Y-publicidade.tex [140]
+[133]) (./Y-publicidade.tex [134]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
 
-[141] [142]
+[135] [136]
 Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-[143] [144]) [145] (./Z-colofon.tex)) [146]
+[137] [138]) [139] (./Z-colofon.tex)) [140]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1597,15 +1583,15 @@ Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 21413 strings out of 494480
+ 21464 strings out of 494480
  100000,794899 words of node,token memory allocated
- 4144 words of node memory still in use:
-   5 hlist, 1 vlist, 2 rule, 271 glue, 274 attribute, 198 glue_spec, 274 attribu
-te_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:1127,3:183,4:100,5:243,6:3793,7:1245,8:55,9:295,10:27,11:5
-71
- 24593 multiletter control sequences out of 65536+600000
- 103 fonts using 15003175 bytes
+ 11084 words of node memory still in use:
+   5 hlist, 1 vlist, 2 rule, 270 glue, 1135 glyph, 307 attribute, 199 glue_spec,
+ 307 attribute_list, 3 shape, 3 write nodes
+   avail lists: 1:1,2:1127,3:183,4:100,5:1691,6:3681,7:1249,8:55,9:295,10:27,11:
+505
+ 24623 multiletter control sequences out of 65536+600000
+ 113 fonts using 16000119 bytes
  47i,14n,83p,1330b,479s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/Formular-Regular.otf></home/edlab/texmf/tex/fonts/times.ttf>
@@ -1614,10 +1600,10 @@ onts/SwiftNeueLTPro-Italic.otf></home/edlab/texmf/tex/fonts/SwiftNeueLTPro-Bold.
 otf></usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (146 pages, 1812457 bytes).
+Output written on LIVRO.pdf (140 pages, 1504704 bytes).
 
-PDF statistics: 520 PDF objects out of 1000 (max. 8388607)
- 341 compressed objects within 4 object streams
+PDF statistics: 497 PDF objects out of 1000 (max. 8388607)
+ 328 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
